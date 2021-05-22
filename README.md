@@ -14,7 +14,7 @@ Providers can see all their appointments, manage the times, also see if one clie
   <img src="./github/gobarber-web.gif" alt="demo-web" height="425">
 </div>
 
-## 🚀 Technologies
+## 🚀 Tecnologies
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
